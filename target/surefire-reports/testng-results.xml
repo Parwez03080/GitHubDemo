@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2022-04-26T03:22:03 IST" finished-at="2022-04-26T03:22:03 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2022-04-26T03:22:03 IST" finished-at="2022-04-26T03:22:03 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="appium()[pri:0, instance:qaclickacademy.AppiumTest@11438d26]" name="appium" duration-ms="7" started-at="2022-04-26T03:22:03 IST" finished-at="2022-04-26T03:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="SelenoumTest()[pri:0, instance:qaclickacademy.SeleniumTest@7a765367]" name="SelenoumTest" duration-ms="8" started-at="2022-04-26T03:22:03 IST" finished-at="2022-04-26T03:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelenoumTest -->
+        <test-method status="PASS" signature="elementsui()[pri:0, instance:qaclickacademy.SeleniumTest@7a765367]" name="elementsui" duration-ms="0" started-at="2022-04-26T03:22:03 IST" finished-at="2022-04-26T03:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsui -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
